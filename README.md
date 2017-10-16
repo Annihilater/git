@@ -1,2 +1,2 @@
-# git
+# Git
 Here we got git.
