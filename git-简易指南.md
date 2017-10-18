@@ -13,7 +13,7 @@
 
 ## 检出仓库
 执行如下命令以创建一个本地仓库的克隆版本：
-==`git clone /path/to/repository`==
+*git clone /path/to/repository*
 如果是远端服务器上的仓库，你的命令会是这个样子：
 ==`git clone username@host:/path/to/repository`==
 
